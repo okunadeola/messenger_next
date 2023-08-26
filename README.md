@@ -4,8 +4,7 @@ This is a Next.js project built from [`Code With Antonio`](https://www.youtube.c
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-    //@ts-expect-error Server Component
-    //@ts-ignore
+
 First, run the development server:
 
 ```bash
